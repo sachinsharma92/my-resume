@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>link</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="link" fill="#000000" fill-rule="nonzero">
+            <path d="M11,8 L12,8 L12,11 C12,11.55 11.55,12 11,12 L1,12 C0.45,12 0,11.55 0,11 L0,1 C0,0.45 0.45,0 1,0 L4,0 L4,1 L1,1 L1,11 L11,11 L11,8 Z M6,0 L8.25,2.25 L5,5.5 L6.5,7 L9.75,3.75 L12,6 L12,0 L6,0 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
