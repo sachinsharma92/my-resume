@@ -2263,7 +2263,7 @@ h6 { font-size: 16px; }
 	top: -8px;
 }
 .aali_tm_counter .counter_list .wrapper .text h3{
-	font-size: 30px;
+	font-size: 25px;
 	font-weight: 600;
 	color: #f4f5fe;
 	letter-spacing: -.2px;
@@ -2301,7 +2301,7 @@ h6 { font-size: 16px; }
 	margin-top: 60px;
 }
 .aali_tm_contact .left{
-	width: 70%;
+	width: 90%;
 	margin: 0 auto;
 	display: flex;
 	align-content: center;
@@ -2712,6 +2712,14 @@ input[type=number] {
 
 @media (min-width: 1600px) {
 	.container{max-width: 1440px;}
+
+	.aali_tm_contact .left{
+		width: 70%;
+	}
+
+	.aali_tm_counter .counter_list .wrapper .text h3{
+		font-size: 30px;
+	}
 }
 
 @media (max-width: 1400px) {
