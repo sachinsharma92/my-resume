@@ -1139,6 +1139,7 @@ h6 { font-size: 16px; }
 }
 .aali_tm_portfolio .portfolio_list ul li .list_inner .image{
 	position: relative;
+	max-height: 190px;
 }
 .aali_tm_portfolio .portfolio_list ul li .list_inner .image img{
 	position: relative;
@@ -2719,6 +2720,11 @@ input[type=number] {
 
 	.aali_tm_counter .counter_list .wrapper .text h3{
 		font-size: 30px;
+	}
+
+	.aali_tm_portfolio .portfolio_list ul li .list_inner .image{
+		position: relative;
+		max-height: 230px;
 	}
 }
 
